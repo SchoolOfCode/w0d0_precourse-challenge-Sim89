@@ -1,6 +1,3 @@
-# w0d0_precourse-challenge-Sim89
-w0d0_precourse-challenge-Sim89 created by GitHub Classroom
-
 # This is my tribute page to Michael Jackson. 
 
 I chose this subject because firstly, i'm a big fan of Michael Jackson and secondly I love all of his music hits.
